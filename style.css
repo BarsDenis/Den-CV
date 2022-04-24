@@ -33,6 +33,7 @@ body {
 .avatar_img {
     border-radius: 28px;
     box-shadow: 7px 4px 3px #a8a8a7;
+    width: 200px;
 }
 
 .hidePhoto {
@@ -41,7 +42,7 @@ body {
 
 .activeAva {
     top: 50px;
-    left: 400px;
+    left: 30%;
     display: flex;
     position: absolute;
     width: 500px;
